@@ -1,0 +1,54 @@
+@import url ('https://fonts.googleapis.com/css2? family = Pacifico & display = swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+ul {
+ list-style-type: square;
+ background: #3399ff;
+ padding: 15px;
+ list-style: none;
+}
+ul li {
+ background: #cce5ff;
+ padding: 5px;
+ margin: 5px 0 0 35px;
+}
+ol {
+ background: #ff9999;
+ padding: 15px;
+}
+ol li {
+ background: #ffe5e5;
+ padding: 5px;
+ margin: 5px 0 0 35px;
+}
+a {
+text-decoration: none;
+}
+a:hover{
+color: #f09a05;
+}
+header {
+background: #3399ff;
+border-radius: 15px;
+}
+body {
+background: lightgrey;
+}
+h1 {
+text-align: center;
+font-family: 'Pacifico', cursive;
+color: white;
+background-color: black;
+border-radius: 15px;
+}
+#Mem {
+font: bold 30px sens-serif;
+font-family: 'Oswald', sans-serif;
+background-color: #3399ff;
+border-radius: 15px;
+}
+#nozh {
+font: bold 30px sens-serif;
+font-family: 'Oswald', sans-serif;
+background-color: #3399ff;
+border-radius: 15px;
+}
